@@ -1,11 +1,8 @@
 
   # Neon Strike: Rebirth
 
-  This is a code bundle for Game Landing Page. The original project is available at https://www.figma.com/design/lZDsSJLpeyRW34YlHgB93X/Game-Landing-Page.
+Cyberpunk-inspired gaming landing page concept packed with cinematic visuals, smooth animations, character reveals, interactive weapon showcases, and a futuristic UI.
 
-  ## Running the code
+💻 Developed in Visual Studio Code
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+🔗 https://neonstrikerebirth.vercel.app
